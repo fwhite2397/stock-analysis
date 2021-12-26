@@ -42,5 +42,5 @@ be unknown to the developer at the time when the original code was written, or n
 can improve the performance of previously slow running processes. However, not all techniques will promise postive results, in the process of refacting, you 
 could introduce either a bug or cause the process to run slower. 
 
-### How do pros and cons apply to refacting the original VBSA script
+### How do pros and cons apply to refacting the original VBA script
 You must ensure that the effort put forth to refactor your code provides the same (or better) results than the original and must have a postive impact on the dependent user/process. In our example, refactoring the code provided both the same (expected) result and executed faster. This provided the outcome needed to just modifying the original version of code.
